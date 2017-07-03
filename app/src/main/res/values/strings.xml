@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SurfaceViewExample</string>
+    <string name="function01">Calculate</string>
+    <string name="function02">Sprite Game</string>
+</resources>
